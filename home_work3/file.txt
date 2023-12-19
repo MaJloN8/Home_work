@@ -1,8 +1,0 @@
-Volkswagen; Passat; 1989; 2.0; sedan
-Audi; 80;1991;2.0; sedan
-Toyota;CarinaE;1995;1.8;wagon
-Nissan;Sunny;1993;1.4; sedan
-Volkswagen; Passat; 1989; 2.0; sedan
-Audi; 80;1991;2.0; sedan
-Toyota;CarinaE;1995;1.8;wagon
-Nissan;Sunny;1993;1.4; minivan 
